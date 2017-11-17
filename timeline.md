@@ -2,7 +2,7 @@
 
 This document hopefully provides a somewhat reusable template for the standard
 actions of a workshop colocated with some of the major programming language
-conferences including SPLASH, ECOOP, and <Programming>.
+conferences including SPLASH, ECOOP, and &lt;Programming&gt;.
 
 The workshop is assumed to have a technical paper submission deadline with
 reviews as well as a work-in-progress submission deadline for preliminary work,
@@ -49,7 +49,7 @@ derived from notes of Olivier Zendra, who guided me in organizing ICOOOLPS.
 
 ### Week T-22
 
- - have Call for Papers ready (often already part of proposal from early)
+ - have Call for Papers ready (often already part of proposal from earlier)
 
  - get CFP reviewed (steering committee, co-organizers, ...)
 
