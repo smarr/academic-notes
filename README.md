@@ -1,10 +1,11 @@
-# Workshop Organization Notes
+# Academic Notes
 
-This repo contains my notes on organizing workshops at programming language 
+This repo contains my notes on various academic things,
+including organizing workshops at programming language 
 conferences.
 
-Currently, there is most importantly [timeline.md](timeline.md).
+I hope it is more generally useful.
+Feedback and contributions are welcome.
 
-I hope it is useful, feedback and contributions are welcome.
 Just to be on the safe side, the license is [CC-BY-4.0](LICENSE).
 
